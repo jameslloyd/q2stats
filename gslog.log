@@ -1,0 +1,222 @@
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	15:58:21
+		LogDeathFlags	16916
+		Map	The Edge
+		GameStart			0
+		GameEnd			735
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	16:10:36
+		LogDeathFlags	16916
+		Map	Painkiller
+		GameStart			0
+		GameEnd			735
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	16:22:51
+		LogDeathFlags	16916
+		Map	'The Longest Three Feet' for Q2 DM by Briareos {Moo}
+		GameStart			0
+		GameEnd			735
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	16:40:49
+		LogDeathFlags	16916
+		Map	The Edge
+		GameStart			0
+		PlayerConnect	d3s{FLP}		2
+		PlayerConnect	pulivari		4
+		PlayerConnect	astral		5
+d3s{FLP}		Suicide	Fell	-1	39	42
+d3s{FLP}		Suicide	Unknown	-1	57	44
+pulivari	d3s{FLP}	Kill	Blaster	1	82	151
+astral	pulivari	Kill	Rocket Launcher	1	87	52
+d3s{FLP}		Suicide	Unknown	-1	97	42
+astral	d3s{FLP}	Kill	Rocket Launcher	1	120	52
+pulivari	astral	Kill	Shotgun	1	140	151
+pulivari	d3s{FLP}	Kill	Super Shotgun	1	143	152
+pulivari	d3s{FLP}	Kill	Machinegun	1	151	152
+pulivari	astral	Kill	Chaingun	1	154	150
+pulivari	d3s{FLP}	Kill	Grenade Launcher	1	165	152
+pulivari	astral	Kill	Rocket Launcher	1	168	152
+pulivari	d3s{FLP}	Kill	Hyperblaster	1	175	152
+pulivari	astral	Kill	Railgun	1	177	152
+astral	d3s{FLP}	Kill	Hand Grenade	1	251	54
+pulivari	astral	Kill	Grappling Hook	1	263	152
+pulivari	d3s{FLP}	Kill	Blaster	1	294	152
+astral	pulivari	Kill	Super Shotgun	1	306	53
+pulivari	d3s{FLP}	Kill	Blaster	1	318	151
+pulivari	astral	Kill	Blaster	1	326	153
+pulivari		Suicide	Unknown	-1	328	151
+astral	pulivari	Kill	Grenade Launcher	1	356	54
+astral	d3s{FLP}	Kill	Grenade Launcher	1	356	54
+astral		Suicide	Grenade Launcher	-1	366	53
+pulivari		Suicide	Grenade Launcher	-1	378	152
+pulivari		Suicide	Fell	-1	401	151
+pulivari	d3s{FLP}	Kill	Rocket Launcher	1	413	152
+pulivari		Suicide	Rocket Launcher	-1	416	152
+astral		Suicide	Rocket Launcher	-1	434	52
+astral	d3s{FLP}	Kill	Rocket Launcher	1	474	53
+astral		Suicide	Rocket Launcher	-1	479	52
+astral	d3s{FLP}	Kill	Rocket Launcher	1	493	53
+astral		Suicide	Rocket Launcher	-1	493	53
+d3s{FLP}	astral	Kill	Rocket Launcher	1	578	43
+pulivari	d3s{FLP}	Kill	Rocket Launcher	1	598	151
+		PlayerLeft	astral		641
+pulivari	d3s{FLP}	Kill	Railgun	1	674	153
+pulivari	d3s{FLP}	Kill	Railgun	1	683	151
+pulivari	d3s{FLP}	Kill	Railgun	1	702	150
+		GameEnd			732
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	16:56:02
+		LogDeathFlags	16916
+		Map	The Edge
+		GameStart			0
+		PlayerConnect	d3s{FLP}		2
+		PlayerConnect	pulivari		181
+pulivari	d3s{FLP}	Kill	Blaster	1	347	153
+pulivari	d3s{FLP}	Kill	Shotgun	1	365	153
+pulivari	d3s{FLP}	Kill	Super Shotgun	1	374	154
+pulivari	d3s{FLP}	Kill	Machinegun	1	385	151
+pulivari	d3s{FLP}	Kill	Grenade Launcher	1	394	152
+pulivari	d3s{FLP}	Kill	Rocket Launcher	1	402	153
+pulivari	d3s{FLP}	Kill	Hyperblaster	1	411	152
+pulivari	d3s{FLP}	Kill	Railgun	1	448	153
+pulivari	d3s{FLP}	Kill	Grappling Hook	1	465	153
+pulivari		Suicide	Unknown	-1	480	153
+d3s{FLP}	pulivari	Kill	Hand Grenade	1	678	43
+		GameEnd			731
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	17:10:56
+		LogDeathFlags	16916
+		Map	The Frag Pipe
+		GameStart			0
+		PlayerConnect	d3s{FLP}		12
+		PlayerConnect	pulivari		23
+pulivari		Suicide	Squished	-1	32	152
+pulivari		Suicide	Squished	-1	56	152
+		GameEnd			93
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	17:12:29
+		LogDeathFlags	16916
+		Map	The Edge
+		GameStart			0
+		PlayerConnect	pulivari		2
+		PlayerConnect	d3s{FLP}		19
+pulivari		Suicide	Drowned	-1	32	152
+		GameEnd			60
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	17:13:30
+		LogDeathFlags	16916
+		Map	The Frag Pipe
+		GameStart			0
+		PlayerConnect	pulivari		1
+		PlayerConnect	d3s{FLP}		2
+d3s{FLP}		Suicide	Lava	-1	9	41
+pulivari		Suicide	Lava	-1	12	152
+		GameEnd			51
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	17:14:21
+		LogDeathFlags	16916
+		Map	The Slimy Place
+		GameStart			0
+		PlayerConnect	d3s{FLP}		1
+		PlayerConnect	pulivari		3
+pulivari		Suicide	Slime	-1	10	152
+d3s{FLP}		Suicide	Slime	-1	22	42
+		GameEnd			112
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	17:16:50
+		LogDeathFlags	16916
+		Map	Receiving Center
+		GameStart			0
+		PlayerConnect	d3s{FLP}		3
+		PlayerConnect	pulivari		5
+d3s{FLP}		Suicide	Drowned	-1	149	42
+		GameEnd			277
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	17:21:27
+		LogDeathFlags	16916
+		Map	The Edge
+		GameStart			0
+		PlayerConnect	pulivari		4
+		PlayerConnect	d3s{FLP}		7
+		GameEnd			26
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	17:21:54
+		LogDeathFlags	16916
+		Map	'The Longest Three Feet' for Q2 DM by Briareos {Moo}
+		GameStart			0
+		PlayerConnect	pulivari		1
+		PlayerConnect	d3s{FLP}		2
+d3s{FLP}		Suicide	Bomb	-1	5	43
+pulivari		Suicide	Bomb	-1	6	153
+pulivari		Suicide	Bomb	-1	12	152
+d3s{FLP}		Suicide	Bomb	-1	15	43
+pulivari		Suicide	Bomb	-1	18	152
+pulivari		Suicide	Bomb	-1	47	152
+		GameEnd			144
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	17:25:35
+		LogDeathFlags	16916
+		Map	Drilling Area
+		GameStart			0
+		PlayerConnect	d3s{FLP}		2
+		PlayerConnect	pulivari		2
+pulivari	d3s{FLP}	Kill	Telefrag	1	25	153
+		GameEnd			73
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	17:26:55
+		LogDeathFlags	16916
+		Map	Lower Mines
+		GameStart			0
+		PlayerConnect	d3s{FLP}		1
+		PlayerConnect	pulivari		3
+pulivari		Suicide	Laser	-1	18	153
+		PlayerConnect	Chief		18
+pulivari		Suicide	Laser	-1	39	154
+pulivari		Suicide	Laser	-1	47	154
+		PlayerLeft	Chief		52
+		GameEnd			64
+		StdLog	1.2
+		PatchName	Lithium II
+		LogDate	31 Jul 2010
+		LogTime	17:27:59
+		LogDeathFlags	16916
+		Map	The Edge
+		GameStart			0
+		PlayerConnect	pulivari		4
+		PlayerConnect	BigJohnson=GoM=		35
+pulivari	BigJohnson=GoM=	Kill	Rocket Launcher	1	209	154
+pulivari	BigJohnson=GoM=	Kill	Super Shotgun	1	303	153
+pulivari	BigJohnson=GoM=	Kill	Rocket Launcher	1	330	153
+pulivari	BigJohnson=GoM=	Kill	Railgun	1	359	153
+BigJohnson=GoM=		Suicide	Rocket Launcher	-1	453	51
+pulivari	BigJohnson=GoM=	Kill	Railgun	1	511	153
+		PlayerLeft	BigJohnson=GoM=		538
+		GameEnd			731

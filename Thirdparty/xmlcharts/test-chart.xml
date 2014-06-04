@@ -1,0 +1,37 @@
+<chart>
+ <chart_type>stacked 3d column</chart_type>
+<chart_transition type='scale' delay='1.5' duration='1' order='series'   />
+<axis_category shadow='low' size='12' color='cccccc' alpha='75' orientation='horizontal' />
+<axis_value shadow='low' size='12' color='cccccc' alpha='75' orientation='horizontal' />
+   <chart_data>
+      <row>
+         <null/>
+         <string>March</string>
+         <string>April</string>
+         <string>May</string>
+         <string>June</string>
+      </row>
+      <row>
+         <string>gun1</string>
+         <number>5</number>
+         <number>10</number>
+         <number>30</number>
+         <number>63</number>
+      </row>
+      <row>
+         <string>gun2</string>
+         <number>40</number>
+         <number>20</number>
+         <number>65</number>
+         <number>90</number>
+      </row>
+      <row>
+         <string>gun3</string>
+         <number>56</number>
+         <number>35</number>
+         <number>40</number>
+         <number>90</number>
+      </row>
+   </chart_data>
+
+</chart>
